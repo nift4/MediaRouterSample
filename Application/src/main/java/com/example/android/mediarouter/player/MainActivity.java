@@ -529,17 +529,19 @@ public class MainActivity extends AppCompatActivity {
         if (item != null) {
             int state = item.getState();
             long duration = item.getDuration();
-            if (duration <= 0) {
-                if (state == MediaItemStatus.PLAYBACK_STATE_PLAYING ||
-                        state == MediaItemStatus.PLAYBACK_STATE_PAUSED) {
-                    mSessionManager.updateStatus();
-                }
-            } else {
-                long position = item.getPosition();
-                long timeDelta =
-                        mPaused ? 0 : (SystemClock.elapsedRealtime() - item.getTimestamp());
-                progress = (int) (100.0 * (position + timeDelta) / duration);
+            if (state == MediaItemStatus.PLAYBACK_STATE_PLAYING ||
+                    state == MediaItemStatus.PLAYBACK_STATE_PAUSED) {
+                mSessionManager.updateStatus();
+                Log.i("hi", "got " + item.getPosition());
             }
+            if (mPaused == (state == MediaItemStatus.PLAYBACK_STATE_PLAYING)) {
+                mPaused = state != MediaItemStatus.PLAYBACK_STATE_PLAYING;
+                updateButtons();
+            }
+            long position = item.getPosition();
+            long timeDelta =
+                    mPaused ? 0 : (SystemClock.elapsedRealtime() - item.getTimestamp());
+            progress = (int) (100.0 * (position + timeDelta) / duration);
         }
         mSeekBar.setProgress(progress);
     }
