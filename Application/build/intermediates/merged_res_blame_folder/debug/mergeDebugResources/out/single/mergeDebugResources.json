@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-xhdpi_ic_action_pause.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-xhdpi/ic_action_pause.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-hdpi_ic_media_stop.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-hdpi/ic_media_stop.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-hdpi_tile.9.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-hdpi_ic_action_pause.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-hdpi/ic_action_pause.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-xhdpi_ic_action_stop.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-xhdpi/ic_action_stop.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-mdpi_ic_action_stop.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-mdpi/ic_action_stop.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-mdpi_ic_menu_add.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-mdpi/ic_menu_add.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-mdpi_ic_media_stop.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-mdpi/ic_media_stop.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-mdpi_ic_action_pause.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-mdpi/ic_action_pause.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-xxhdpi_ic_suggestions_add.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-xxhdpi/ic_suggestions_add.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-xxhdpi_ic_action_play.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-xxhdpi/ic_action_play.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-xhdpi_ic_action_play.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-xhdpi/ic_action_play.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-xxhdpi_ic_action_stop.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-xxhdpi/ic_action_stop.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-xxhdpi_ic_action_pause.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-xxhdpi/ic_action_pause.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-xxhdpi_ic_suggestions_delete.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-xxhdpi/ic_suggestions_delete.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/layout_sample_media_router_presentation.xml.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/layout/sample_media_router_presentation.xml"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-hdpi_ic_media_pause.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-hdpi/ic_media_pause.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-mdpi_ic_media_play.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-mdpi/ic_media_play.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/menu_sample_media_router_menu.xml.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/menu/sample_media_router_menu.xml"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-hdpi_ic_action_stop.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-hdpi/ic_action_stop.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-hdpi_ic_action_play.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-hdpi/ic_action_play.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-mdpi_ic_menu_delete.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-mdpi/ic_menu_delete.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-hdpi_ic_menu_add.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-hdpi/ic_menu_add.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-hdpi_ic_menu_delete.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-hdpi/ic_menu_delete.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/layout_overlay_display_window.xml.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/layout/overlay_display_window.xml"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-hdpi_ic_media_play.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-hdpi/ic_media_play.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/layout_sample_media_router.xml.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/layout/sample_media_router.xml"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-mdpi_ic_media_pause.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-mdpi/ic_media_pause.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable_list_background.xml.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable/list_background.xml"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/drawable-mdpi_ic_action_play.png.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/drawable-mdpi/ic_action_play.png"
+    },
+    {
+        "merged": "com.example.android.mediarouter.Application-debug-26:/layout_media_item.xml.flat",
+        "source": "com.example.android.mediarouter.Application-main-28:/layout/media_item.xml"
+    }
+]
