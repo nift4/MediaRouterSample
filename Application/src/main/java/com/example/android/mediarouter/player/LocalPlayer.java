@@ -379,7 +379,7 @@ public abstract class LocalPlayer extends Player implements
         private final FrameLayout mLayout;
         private DemoPresentation mPresentation;
 
-        public SurfaceViewPlayer(Context context) {
+        public  SurfaceViewPlayer(Context context) {
             super(context);
 
             mLayout = (FrameLayout)((Activity)context).findViewById(R.id.player);

@@ -360,7 +360,7 @@ public class RemotePlayer extends Player {
         if (DEBUG) {
             Log.d(TAG, "enqueue: item=" + item);
         }
-        mClient.enqueue(item.getUri(), "video/mp4", null, 0, null, new ItemActionCallback() {
+        mClient.enqueue(item.getUri(), "audio/mpeg", null, 0, null, new ItemActionCallback() {
             @Override
             public void onResult(Bundle data, String sessionId, MediaSessionStatus sessionStatus,
                     String itemId, MediaItemStatus itemStatus) {

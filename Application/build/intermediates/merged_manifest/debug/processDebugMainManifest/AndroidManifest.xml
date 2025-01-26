@@ -31,12 +31,11 @@
          Permission for INTERNET is required for streaming video content
          from the web, it's not required otherwise.
     -->
-    <uses-permission android:name="android.permission.INTERNET" />
     <!--
          Permission for SYSTEM_ALERT_WINDOW is only required for emulating
          remote display using system alert window.
     -->
-    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
 
     <!-- Min/target SDK versions (<uses-sdk>) managed by build.gradle -->
 

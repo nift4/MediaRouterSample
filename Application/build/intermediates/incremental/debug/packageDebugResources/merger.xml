@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/nick/AndroidStudioProjects/MediaRouter/Application/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/nick/AndroidStudioProjects/MediaRouter/Application/src/main/res"><file name="list_background" path="/Users/nick/AndroidStudioProjects/MediaRouter/Application/src/main/res/drawable/list_background.xml" qualifiers="" type="drawable"/><file name="sample_media_router_presentation" path="/Users/nick/AndroidStudioProjects/MediaRouter/Application/src/main/res/layout/sample_media_router_presentation.xml" qualifiers="" type="layout"/><file name="media_item" path="/Users/nick/AndroidStudioProjects/MediaRouter/Application/src/main/res/layout/media_item.xml" qualifiers="" type="layout"/><file name="sample_media_router" path="/Users/nick/AndroidStudioProjects/MediaRouter/Application/src/main/res/layout/sample_media_router.xml" qualifiers="" type="layout"/><file name="overlay_display_window" path="/Users/nick/AndroidStudioProjects/MediaRouter/Application/src/main/res/layout/overlay_display_window.xml" qualifiers="" type="layout"/><file path="/Users/nick/AndroidStudioProjects/MediaRouter/Application/src/main/res/values/colors.xml" qualifiers=""><drawable name="blue">#770000ff</drawable><color name="list_highlight_color">#ccc</color></file><file path="/Users/nick/AndroidStudioProjects/MediaRouter/Application/src/main/res/values/arrays.xml" qualifiers=""><string-array name="media_names">
-        <item>Big Buck Bunny</item>
-        <item>Elephants Dream</item>
-        <item>Sintel</item>
-        <item>Tears of Steel</item>
+        <item>sample</item>
     </string-array><string-array name="media_uris">
-        <item>http://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4</item>
-        <item>http://archive.org/download/ElephantsDream_277/elephant_dreams_640_512kb.mp4</item>
-        <item>http://archive.org/download/Sintel/sintel-2048-stereo_512kb.mp4</item>
-        <item>http://archive.org/download/Tears-of-Steel/tears_of_steel_720p.mp4</item>
+        <item>https://archive.org/download/Oddities-17185/Kevin_MacLeod_-_Fluffing_a_Duck.mp3</item>
     </string-array></file><file path="/Users/nick/AndroidStudioProjects/MediaRouter/Application/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">MediaRouter</string><string name="intro_message">
         <![CDATA[
             Demonstrates how to create a custom media route provider.
